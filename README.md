@@ -1,10 +1,10 @@
-# Image-colorization-CNN
-## Deep Transfer Learning for converting grayscale images to colored images.
+# Deep Transfer Learning for Image Colorization
 
-This repo involves using a convolutional neural network to convert the grayscale images to RGB images.
 
-Image colorization involves taking an input grayscale (black & white) image and then producing an output colorized image that represents the semantic colors and tones of the input.
+This repository contains code for colorizing grayscale images using deep transfer learning.
 
-Here, `autoencoders` was used for image colorization, and the `VGG16 model` was used as a feature extractor.
 
-The dataset used for training and testing can downloaded [here](https://google.com)
+Image colorization involves taking an input grayscale (black & white) image and then producing an output colorized image (RGB) that represents the semantic colors and tones of the input. Using the `Autoencoder` model and by leveraging `VGG16` as a feature extractor, we can transfer knowledge to the task of image colorization.
+
+
+The dataset used for training and testing can be downloaded [here](https://google.com)
