@@ -10,4 +10,4 @@ Image colorization involves taking an input grayscale (black & white) image and 
 The process employed in this project involves training a neural network model to predict the colorized version of grayscale images based on their features. The autoencoder model was used and the architecture consists of an encoder, which incorporates the `VGG16` as a feature extractor, and a decoder built using convolutional layers for upsampling and image reconstruction.
 
 
-Dataset used can be downloaded [here](https://drive.google.com/drive/folders/1HxQgbdN-2FMPRQIDgoskYY5dA_Ekhxk_?usp=drive_link)
+Training data used can be downloaded [here](https://drive.google.com/drive/folders/1HxQgbdN-2FMPRQIDgoskYY5dA_Ekhxk_?usp=drive_link)
